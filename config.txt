@@ -1,6 +1,6 @@
 owner=455202482168004609
-prefix=!
-game=Break | The Gamers
+prefix=+
+game= The Gamers
 stayinchannel=true
 songinstatus=false
 token=NTk4NDg1NjU0MjU4ODQzNjQ5.XSXVvQ.qlsQ9iT7j9tYJkBIySJ06FI98gg
